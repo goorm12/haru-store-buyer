@@ -1,13 +1,12 @@
-# 하루상점 프론트엔드
+# 하루상점 구매자 웹·앱
 
 Next.js App Router + TypeScript + Tailwind CSS + Capacitor 기반 시작 프로젝트입니다.
 현재는 프로젝트 기반과 소개 화면만 있으며 예약·로그인 기능은 구현 전입니다.
 
 ## 문서
 
-- [요구사항](docs/haru-store-requirements.md)
-- [용어 정의](docs/haru-store-glossary.md)
-- [기능 명세서](docs/haru-store-functional-spec.md)
+[역할별 문서 안내](docs/README.md)에서 구매자 요구사항·명세와 공통 정책을 확인합니다.
+판매자·플랫폼 관리자 문서는 haru-store-management에서 관리합니다.
 
 ## 개발
 
@@ -55,7 +54,7 @@ Capacitor에 포함하는 앱은 서버 없이 실행 가능한 정적 출력물
 
 ## GitHub
 
-https://github.com/goorm12/haru-store-frontend
+https://github.com/goorm12/haru-store-buyer
 
 ## 설치 검증 메모
 
