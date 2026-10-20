@@ -1,4 +1,4 @@
-# 하루상점 — 1차 MVP 요구사항
+# 하루상점 — 공통 요구사항·운영 정책
 
 - 작성일: 2026-10-14
 - 상태: 기존 예약 정책 확정 + 공지·문의 추가 요구사항 반영 (v1.1)
@@ -308,4 +308,4 @@ P01~P16의 MVP 운영 정책은 모두 확정되었다. 화면·데이터·예�
 
 ## 브랜치 흐름
 
-develop → codex/docs-role-split → PR 대상 develop → 검토·병합. 배포 시 develop → main PR. 문서 작업은 main에 직접 적용하지 않는다.
+develop → codex/작업명 → PR 대상 develop → 검토·병합. 배포 시 develop → main PR. 문서 작업은 main에 직접 적용하지 않는다.
